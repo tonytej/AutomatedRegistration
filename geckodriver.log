@@ -1,0 +1,380 @@
+1488857138041	geckodriver	INFO	Listening on 127.0.0.1:58793
+1488857139100	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.bNwmCvaNP3Z1
+1488857139102	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488857139120	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58803
+1488857140512	Marionette	INFO	Listening on port 58803
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 530: ReferenceError: dateFormat is not defined
+1488859907029	geckodriver	INFO	Listening on 127.0.0.1:60146
+1488859908131	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.G8MnJ3dWbSpp
+1488859908132	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488859908136	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60157
+1488859909467	Marionette	INFO	Listening on port 60157
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 530: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 35711] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 35711] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1488862641382	geckodriver	INFO	Listening on 127.0.0.1:56976
+1488862642431	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.3c3Tetj1tDGO
+1488862642433	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488862642437	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56986
+1488862643480	Marionette	INFO	Listening on port 56986
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 530: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 35831] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 35831] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1488868419882	geckodriver	INFO	Listening on 127.0.0.1:49203
+1488868420929	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.hGBXRKlhCRpw
+1488868420931	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488868420960	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49212
+1488868422133	Marionette	INFO	Listening on port 49212
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 530: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488869690467	geckodriver	INFO	Listening on 127.0.0.1:51823
+1488869691519	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.Q1IIHxMFY5Cs
+1488869691520	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488869691523	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51832
+1488869692644	Marionette	INFO	Listening on port 51832
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 530: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488872071046	geckodriver	INFO	Listening on 127.0.0.1:58721
+1488872072096	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.iNEkCUTNQkhe
+1488872072098	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488872072101	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58730
+1488872073085	Marionette	INFO	Listening on port 58730
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 530: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488883190774	geckodriver	INFO	Listening on 127.0.0.1:55704
+1488883191820	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.2ZgCcpu19e6D
+1488883191822	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488883191826	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55713
+1488883192992	Marionette	INFO	Listening on port 55713
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488914494831	geckodriver	INFO	Listening on 127.0.0.1:61205
+1488914495875	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.sdfcUtpcYLxX
+1488914495877	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488914495880	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61214
+1488914496853	Marionette	INFO	Listening on port 61214
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488936506612	geckodriver	INFO	Listening on 127.0.0.1:49178
+1488936507660	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.gTexctoIxZFz
+1488936507663	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488936507671	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49187
+1488936508927	Marionette	INFO	Listening on port 49187
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488938667836	geckodriver	INFO	Listening on 127.0.0.1:55715
+1488938669303	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.aK9pt8y1cT7C
+1488938669306	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488938669320	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55724
+1488938673681	Marionette	INFO	Listening on port 55724
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+[GFX1]: Attempting to post to a invalid Compositor Loop
+JavaScript error: resource://app/modules/webrtcUI.jsm, line 846: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488941289675	geckodriver	INFO	Listening on 127.0.0.1:61933
+1488941290743	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.RvWerEINSDGW
+1488941290745	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488941290749	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61942
+1488941291772	Marionette	INFO	Listening on port 61942
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488957350045	geckodriver	INFO	Listening on 127.0.0.1:49252
+1488957351476	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.dCSKhh1ZNSRT
+1488957351482	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488957351578	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49262
+1488957355862	Marionette	INFO	Listening on port 49262
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488961412575	geckodriver	INFO	Listening on 127.0.0.1:60875
+1488961413629	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.LmSF6SZSl41G
+1488961413630	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488961413633	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60884
+1488961414605	Marionette	INFO	Listening on port 60884
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488963781160	geckodriver	INFO	Listening on 127.0.0.1:50286
+1488963782220	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.L1fOvrnGPNPn
+1488963782222	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488963782225	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50295
+1488963783219	Marionette	INFO	Listening on port 50295
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+1488963854215	geckodriver	INFO	Listening on 127.0.0.1:50425
+1488963855267	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.VItHAYVDiuO2
+1488963855268	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488963855273	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50434
+1488963856085	Marionette	INFO	Listening on port 50434
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+1488966575357	geckodriver	INFO	Listening on 127.0.0.1:52678
+1488966576414	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.cLa67NX1tWQG
+1488966576416	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488966576419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52687
+1488966577613	Marionette	INFO	Listening on port 52687
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+Invalid connection: com.apple.coresymbolicationd
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 623] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 623] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1488971083753	geckodriver	INFO	Listening on 127.0.0.1:57782
+1488971084802	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.t861RBF7bWnM
+1488971084804	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488971084807	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57791
+1488971085943	Marionette	INFO	Listening on port 57791
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+[Child 779] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 779] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1488971104193	geckodriver	INFO	Listening on 127.0.0.1:58037
+1488971105240	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.rpl0TawARahY
+1488971105242	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488971105247	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58046
+1488971106080	Marionette	INFO	Listening on port 58046
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+1488971134801	geckodriver	INFO	Listening on 127.0.0.1:58135
+1488971135852	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.2mlfhLBSm26m
+1488971135854	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488971135958	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58144
+1488971136799	Marionette	INFO	Listening on port 58144
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+1488971205734	geckodriver	INFO	Listening on 127.0.0.1:58574
+1488971206786	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.3vLd95rYkrUt
+1488971206788	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488971206793	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58583
+1488971207616	Marionette	INFO	Listening on port 58583
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:576:15
+implicitlyWaitFor/<@chrome://marionette/content/element.js:603:5
+implicitlyWaitFor@chrome://marionette/content/element.js:569:10
+element.find/<@chrome://marionette/content/element.js:249:24
+element.find@chrome://marionette/content/element.js:248:10
+findElementContent@chrome://marionette/content/listener.js:1114:18
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+dispatch/<@chrome://marionette/content/listener.js:185:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:576:15
+implicitlyWaitFor/<@chrome://marionette/content/element.js:603:5
+implicitlyWaitFor@chrome://marionette/content/element.js:569:10
+element.find/<@chrome://marionette/content/element.js:249:24
+element.find@chrome://marionette/content/element.js:248:10
+findElementContent@chrome://marionette/content/listener.js:1114:18
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+dispatch/<@chrome://marionette/content/listener.js:185:15
+
+*************************
+1488991737843	geckodriver	INFO	Listening on 127.0.0.1:49447
+1488991738887	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.mTBslmosTnLJ
+1488991738888	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488991738916	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49456
+1488991740040	Marionette	INFO	Listening on port 49456
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1489002075237	geckodriver	INFO	Listening on 127.0.0.1:58362
+1489002076291	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.TCvFudMCyvQE
+1489002076292	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489002076296	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58371
+1489002077265	Marionette	INFO	Listening on port 58371
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+[Child 1144] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1144] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489005332261	geckodriver	INFO	Listening on 127.0.0.1:60415
+1489005333308	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.5VSKZIU80t0T
+1489005333310	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489005333314	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60426
+1489005334202	Marionette	INFO	Listening on port 60426
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+1489006810472	geckodriver	INFO	Listening on 127.0.0.1:60889
+1489006811522	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.VYmxPoyHn3gD
+1489006811523	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489006811532	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60898
+1489006812406	Marionette	INFO	Listening on port 60898
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+[Child 1301] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1301] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489007357310	geckodriver	INFO	Listening on 127.0.0.1:61752
+1489007358359	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.VnYIZg0Sc2KI
+1489007358361	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489007358364	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61761
+1489007359266	Marionette	INFO	Listening on port 61761
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+[Child 1837] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1837] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489007406297	geckodriver	INFO	Listening on 127.0.0.1:61872
+1489007407346	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.cOcFIvGkgTqX
+1489007407348	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489007407354	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61882
+1489007408294	Marionette	INFO	Listening on port 61882
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+[Child 1845] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1845] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489015906792	geckodriver	INFO	Listening on 127.0.0.1:64162
+1489015907844	mozprofile::profile	INFO	Using profile path /var/folders/d_/_r99qsx55zz79twghhsfndww0000gn/T/rust_mozprofile.XZhQMEQlfqD1
+1489015907846	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489015907851	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64171
+1489015908823	Marionette	INFO	Listening on port 64171
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1001: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 2831] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2831] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
