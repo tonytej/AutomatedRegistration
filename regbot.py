@@ -51,28 +51,33 @@ def add_class(crnnum):
     browser.execute_script('arguments[0].click()', submit)
 
 def isAvailable(coursename):
-    browser.switch_to.default_content()
-    while True:
-        try:
-            browser.switch_to.frame('content')
-        except NoSuchFrameException:
-            browser.refresh()
-            continue
-        break
-    while True:
-        try:
-            WebDriverWait(browser, 60).until(EC.presence_of_element_located((By.XPATH, '//table[@dept="ACCT"]')))
-        except TimeoutException:
-            browser.refresh()
-            continue
-        break
     try:
-        course = browser.find_element_by_xpath('//td[text()="' + coursename + '"]')
-    except NoSuchElementException:
+        browser.switch_to.default_content()
+        while True:
+            try:
+                browser.switch_to.frame('content')
+            except NoSuchFrameException:
+                browser.refresh()
+                continue
+            break
+        while True:
+            try:
+                WebDriverWait(browser, 20).until(EC.presence_of_element_located((By.XPATH, '//table[@dept="ACCT"]')))
+            except TimeoutException:
+                browser.refresh()
+                continue
+            break
+        try:
+            course = browser.find_element_by_xpath('//td[text()="' + coursename + '"]')
+        except NoSuchElementException:
+            return False
+        if course.is_displayed():
+            return True
         return False
-    if course.is_displayed():
-        return True
-    return False
+    except TimeoutException:
+        WebDriverWait(browser, 60).until(EC.presence_of_element_located((By.XPATH,'//td[text()="Browser Problem"]')))
+        cont = browser.find_element_by_xpath('//input[@name="continue_btn"]')
+        browser.execute_script('arguments[0].click()', cont)
 
 def getcrn(coursename):
     table = browser.find_element_by_xpath('//table[@dept="MATH"]')
@@ -107,6 +112,7 @@ while True:
         print('Course added succesfully')
     except:
         browser.get('http://myportal.fhda.edu')
+        login(sid, pwd)
         goToReg()
         continue
     break
