@@ -378,3 +378,293 @@ Full stack:
 *************************
 [Child 2831] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
 [Child 2831] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489140640713	geckodriver	INFO	Listening on 127.0.0.1:42035
+1489140641744	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RiI8xbxmDO2s
+1489140641744	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489140641745	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42741
+1489140642377	Marionette	INFO	Listening on port 42741
+1489140642509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=21.8866) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14251] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-52.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 14251] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+[Child 14251] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+1489140702714	geckodriver	INFO	Listening on 127.0.0.1:57255
+1489140703746	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.B9U4g59mFbZO
+1489140703746	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489140703747	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35455
+1489140704348	Marionette	INFO	Listening on port 35455
+1489140704461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: window is null
+Full stack: atom.isElementDisplayed@chrome://marionette/content/atom.js:192:303
+interaction.isElementDisplayed@chrome://marionette/content/interaction.js:319:19
+isElementDisplayed@chrome://marionette/content/listener.js:1267:10
+dispatch/</req<@chrome://marionette/content/listener.js:188:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:186:15
+
+*************************
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+implicitlyWaitFor/<@chrome://marionette/content/element.js:621:5
+implicitlyWaitFor@chrome://marionette/content/element.js:587:10
+element.find/<@chrome://marionette/content/element.js:249:24
+element.find@chrome://marionette/content/element.js:248:10
+findElementContent@chrome://marionette/content/listener.js:1167:18
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:389:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:15
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:186:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+implicitlyWaitFor/<@chrome://marionette/content/element.js:621:5
+implicitlyWaitFor@chrome://marionette/content/element.js:587:10
+element.find/<@chrome://marionette/content/element.js:249:24
+element.find@chrome://marionette/content/element.js:248:10
+findElementContent@chrome://marionette/content/listener.js:1167:18
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:389:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:15
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:186:15
+
+*************************
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 534: ReferenceError: dateFormat is not defined
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+1489218054480	geckodriver	INFO	Listening on 127.0.0.1:37725
+1489218055518	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gHvPfIm8YS43
+1489218055519	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489218055520	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39955
+1489218056194	Marionette	INFO	Listening on port 39955
+1489218056317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=3047.41) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14764] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-52.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 14764] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+[Child 14764] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+1489221105429	geckodriver	INFO	Listening on 127.0.0.1:49555
+1489221106460	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CwApkABFoyGN
+1489221106460	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489221106461	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45715
+1489221107024	Marionette	INFO	Listening on port 45715
+1489221107137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+implicitlyWaitFor/<@chrome://marionette/content/element.js:621:5
+implicitlyWaitFor@chrome://marionette/content/element.js:587:10
+element.find/<@chrome://marionette/content/element.js:249:24
+element.find@chrome://marionette/content/element.js:248:10
+findElementContent@chrome://marionette/content/listener.js:1167:18
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:389:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:15
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:186:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+implicitlyWaitFor/<@chrome://marionette/content/element.js:621:5
+implicitlyWaitFor@chrome://marionette/content/element.js:587:10
+element.find/<@chrome://marionette/content/element.js:249:24
+element.find@chrome://marionette/content/element.js:248:10
+findElementContent@chrome://marionette/content/listener.js:1167:18
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:389:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:15
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:186:15
+
+*************************
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+out of memory: 0x0000000000008000 bytes requested
+[Parent 14826] WARNING: pipe error (55): Connection reset by peer: file /build/firefox/src/firefox-52.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Parent 14826] WARNING: pipe error (48): Connection reset by peer: file /build/firefox/src/firefox-52.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1489257690885	geckodriver	INFO	Listening on 127.0.0.1:59193
+1489257691923	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0DdSLRGHW2EJ
+1489257691923	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489257691924	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35003
+1489257692685	Marionette	INFO	Listening on port 35003
+1489257692803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+out of memory: 0x0000000000020000 bytes requested
+[Parent 15056] WARNING: pipe error (52): Connection reset by peer: file /build/firefox/src/firefox-52.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1489274111881	geckodriver	INFO	Listening on 127.0.0.1:43585
+1489274112922	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UFgY1hgU3NJU
+1489274112923	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489274112924	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43581
+1489274113676	Marionette	INFO	Listening on port 43581
+1489274113797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 15249] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+[Child 15249] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143

@@ -46,7 +46,7 @@ def add_class(crnnum):
     browser.switch_to.frame('content')
     WebDriverWait(browser, 20).until(EC.presence_of_element_located((By.ID, 'crn_id1')))
     crn = browser.find_element_by_id('crn_id1')
-    crn.send_keys('00436')
+    crn.send_keys(crnnum)
     submit = browser.find_element_by_xpath('//input[@value="Submit Changes"]')
     browser.execute_script('arguments[0].click()', submit)
 
@@ -97,7 +97,7 @@ course = 'LINEAR ALGEBRA'
 
 print('Opening browser...')
 browser = webdriver.Firefox()
-browser.get('http://myportal.fhda.edu')
+browser.get('https://myportal.fhda.edu')
 print('Logging in...')
 login(sid, pwd)
 goToReg()
@@ -111,7 +111,7 @@ while True:
         add_class(getcrn(course))
         print('Course added succesfully')
     except:
-        browser.get('http://myportal.fhda.edu')
+        browser.get('https://myportal.fhda.edu')
         login(sid, pwd)
         goToReg()
         continue
