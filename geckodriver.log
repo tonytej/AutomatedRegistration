@@ -668,3 +668,13 @@ Full stack:
 *************************
 [Child 15249] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
 [Child 15249] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+1489741801484	geckodriver	INFO	Listening on 127.0.0.1:55051
+1489741802545	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KJ3Fwm9cf8nO
+1489741802546	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489741802547	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38653
+1489741803512	Marionette	INFO	Listening on port 38653
+1489741803766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+[Child 23908] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+[Child 23908] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
