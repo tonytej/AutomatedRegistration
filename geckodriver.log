@@ -678,3 +678,304 @@ JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_F
 JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
 [Child 23908] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
 [Child 23908] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+1489751403064	geckodriver	INFO	Listening on 127.0.0.1:60363
+1489751404100	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1FL1Ujae15wX
+1489751404100	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489751404126	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42683
+1489751404633	Marionette	INFO	Listening on port 42683
+1489751404767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=56.0464) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1010] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-52.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 1010] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+[Child 1010] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+1489751493722	geckodriver	INFO	Listening on 127.0.0.1:34411
+1489751494753	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nRxFCNPhS7gj
+1489751494753	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489751494754	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37471
+1489751495241	Marionette	INFO	Listening on port 37471
+1489751495354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=24.1993) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1104] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-52.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 1104] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+[Child 1104] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-52.0/ipc/glue/MessageChannel.cpp, line 2143
+1489751543491	geckodriver	INFO	Listening on 127.0.0.1:40933
+1489751544522	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FR7RWWV64Qzw
+1489751544522	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489751544523	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36785
+1489751544992	Marionette	INFO	Listening on port 36785
+1489751545104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: https://myportal.fhda.edu/render.userLayoutRootNode.uP?uP_root=root, line 541: ReferenceError: dateFormat is not defined
+JavaScript error: https://banssb.fhda.edu/PROD/bwskfreg.P_AltPin, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssb.fhda.edu/PROD/bwckcoms.P_Regs, line 145: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/multi-crn.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: https://banssbprodn.fhda.edu/co-req/co-req.js, line 1: TypeError: $(...).ready(...) is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]

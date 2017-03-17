@@ -47,7 +47,7 @@ def add_class(crnnum):
                      
                     submit = browser.find_element_by_xpath('//input[@value="Submit Changes"]')
                     browser.execute_script('arguments[0].click()', submit)
-                    WebDriverWait(browser, 2).until(EC.presence_of_element_located((By.ID, 'waitaction_id1')))
+                    WebDriverWait(browser, 1).until(EC.presence_of_element_located((By.ID, 'waitaction_id1')))
                     print('Slot available on ' + e + '. Waitlisting...')
                     select1 = Select(browser.find_element_by_id('waitaction_id1'))
                     select1.select_by_visible_text('Waitlisted')
