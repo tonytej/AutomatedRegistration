@@ -87,13 +87,9 @@ def getcrn(coursename):
         if len(coursecol) > 1 and coursecol[3].text == coursename:
                 return coursecol[2].text
 
-#sid = input('Student ID: ')
-#pwd = input('Password: ')
-#course = input('Course to be found (CAPITAL LETTERS): ')
-
-sid = '20241842'
-pwd = 'Jetynot1997'
-course = 'LINEAR ALGEBRA'
+sid = input('Student ID: ')
+pwd = input('Password: ')
+course = input('Course to be found (CAPITAL LETTERS): ')
 
 print('Opening browser...')
 browser = webdriver.Firefox()

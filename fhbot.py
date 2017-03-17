@@ -62,8 +62,8 @@ def add_class(crnnum):
                 continue
             break
 
-sid = '20241842'
-pwd = 'Jetynot1997'
+sid = input('Student ID: ')
+pwd = input('Password: ')
 
 print('Opening browser...')
 browser = webdriver.Firefox()
